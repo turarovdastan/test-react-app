@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "title": "Привет! Я Андреей ",
+      "image": "https://api.teach.org/sites/default/files/2018-11/Teach_salary-benefits.jpg",
+      "price": 2000,
+      "type": "russian",
+      "description": "Добейтесь успехов в изучении русского языка с опытным преподавателем-носителем языка.",
+      "id": 15
+    },
+    {
+      "title": "Салам ! Мен Айдар",
+      "image": "https://previews.123rf.com/images/bbtreesubmission/bbtreesubmission1709/bbtreesubmission170912965/87068800-asian-male-teacher-putting-palm-up-on-blackboard-background.jpg",
+      "price": 3000,
+      "type": "kyrgyz",
+      "description": "Добейтесь успехов в изучении русского языка с опытным преподавателем-носителем языка.",
+      "id": 16
+    },
+    {
+      "title": "Hi, My name is  Rick Taylor",
+      "image": "https://3kyfma1tr3gd273qz5237tyv-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/TEACHING-ENGLISH-AS-FOREGIN-LANGUAGE-TEFL.jpg",
+      "price": 2000,
+      "type": "english",
+      "description": "I am a native teacher from Birmingham, England, with 9 years of teaching experience, since graduation. Fully TEFL/CELTA/TESOL",
+      "id": 17
+    },
+    {
+      "title": "Салам ! Мен Айима",
+      "image": "https://motto-jp.com/media/wp-content/uploads/2021/04/AdobeStock_74877484.jpeg",
+      "price": 5000,
+      "type": "kyrgyz",
+      "description": "I am a native teacher from Birmingham, England, with 9 years of teaching experience, since graduation. Fully TEFL/CELTA/TESOL",
+      "id": 18
+    },
+    {
+      "title": "Привет! Я Анна",
+      "image": "https://ru.baku.ws/uploads/posts/2015-09/1442214203_11.jpg",
+      "price": 3000,
+      "type": "russian",
+      "description": "Добейтесь успехов в изучении русского языка с опытным преподавателем-носителем языка «Мне нужно выучить русский!!!",
+      "id": 22
+    },
+    {
+      "title": "Привет! Я Мария",
+      "image": "https://lh3.googleusercontent.com/proxy/-3h4Ld4t0bYCaLODPSQuz0Qbb_p_06UvfjOmQ7WrrHzzqaU5jAl8_bVmptRzuIkOTCZod_s71SIxcGSkaQMpwkLoH8U6HxyjWPGLtkimCftMpsUVyBdXRA",
+      "price": 5000,
+      "type": "russian",
+      "description": "Добейтесь успехов в изучении русского языка с опытным преподавателем-носителем языка «Мне нужно выучить русский!!!",
+      "id": 23
+    },
+    {
+      "title": "Салам ! Мен Айба",
+      "image": "https://st.depositphotos.com/1518767/3618/i/600/depositphotos_36184557-stock-photo-teacher-with-tablet-pc-in.jpg",
+      "price": 5000,
+      "type": "kyrgyz",
+      "description": "Добейтесь успехов в изучении русского языка с опытным преподавателем-носителем языка",
+      "id": 24
+    },
+    {
+      "title": " Hi, My name is  Piter Pen",
+      "image": "https://thumbs.dreamstime.com/b/%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D1%83%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C-%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0-%D0%BE%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D1%8F%D1%8E%D1%89%D0%B8%D0%B9-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-220079502.jpg",
+      "price": 3000,
+      "type": "english",
+      "description": "I am a native teacher from Birmingham, England, with 9 years of teaching experience, since graduation. Fully TEFL/CELTA/TESOL",
+      "id": 26
+    },
+    {
+      "title": "Hi, My name is  Brain Bary",
+      "image": "https://st2.depositphotos.com/2309453/9851/i/950/depositphotos_98512070-stock-photo-smiling-confident-asian-male-teacher.jpg",
+      "price": 2000,
+      "type": "english",
+      "description": "I am a native teacher from Birmingham, England, with 9 years of teaching experience, since graduation. Fully TEFL/CELTA/TESOL",
+      "id": 27
+    },
+    {
+      "title": "Hi, My name is Lari Adrio",
+      "image": "https://ontesol.com/wp-content/uploads/2020/03/woman-in-black-and-white-polka-dots-dress-sitting-by-the-3783839-1-scaled-1.jpg",
+      "price": 3000,
+      "type": "english",
+      "description": "\nI am a native teacher from Birmingham, England, with 9 years of teaching experience, since graduation. Fully TEFL/CELTA/TESOL",
+      "id": 28
+    }
+  ]
+}
